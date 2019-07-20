@@ -1,3 +1,9 @@
+"""
+Sue Taylor
+April, 2019
+Dictionary practice
+
+"""
 #Dictionary of continents, countries and cities
 
 # Code
